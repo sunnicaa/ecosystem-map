@@ -212,6 +212,7 @@
 | CockFights Game         | [Telegram](https://t.me/TonCocks)               |                                                              | [Twitter](https://twitter.com/Cock_Fights)    | [Website](https://cock-fights.com)             |
 | Chess Zombies           | [Telegram](https://t.me/chesszombieseng)        | [GitHub](https://github.com/SHEDEVERstudio)                  | [Twitter](https://twitter.com/ShedEVERstudio) | [Website](https://chesszombies.fun)            |
 | Gatto Game              | [Telegram](https://t.me/gatto_gamebot)          |                                                              | [Twitter](https://x.com/Gatto_game)           |                                                |
+| GemGame              | [Telegram](https://t.me/play_gemgame_bot/play?startapp=c_git) |                                                   | [Twitter](https://x.com/GemGame_TG)           |                                                |
 
 ## Infra
 
@@ -241,6 +242,7 @@
 | 8XR          | [Telegram](https://t.me/gam8s)          |                                       | [Twitter](https://twitter.com/8xr_engine)  | [Website](https://8xr.io/)      |
 | Cosmoton.xyz |                                         |                                       |                                            | [Website](https://cosmoton.xyz) |
 | PaperPlane | [Telegram](https://t.me/PaperPlaneGameBot) | [GitHub](https://github.com/paperplaneonton) | [Twitter](https://twitter.com/paperplane_ton) | [Website](https://paperplanetoken.site) |
+| GemGame      | [Telegram](https://t.me/play_gemgame_bot/play?startapp=c_git)|                  | [Twitter](https://x.com/GemGame_TG)        |                                                |
 
 ### Storage
 
